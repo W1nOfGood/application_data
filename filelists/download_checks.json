@@ -218,7 +218,10 @@
                 "Roformer Model: BS-Roformer-Viperx-1297": {"model_bs_roformer_ep_317_sdr_12.9755.ckpt":"model_bs_roformer_ep_317_sdr_12.9755.yaml"},
                 "Roformer Model: BS-Roformer-Viperx-1296": {"model_bs_roformer_ep_368_sdr_12.9628.ckpt":"model_bs_roformer_ep_368_sdr_12.9628.yaml"},
                 "Roformer Model: BS-Roformer-Viperx-1053": {"model_bs_roformer_ep_937_sdr_10.5309.ckpt":"model_bs_roformer_ep_937_sdr_10.5309.yaml"},
-                "Roformer Model: Mel-Roformer-Viperx-1143": {"model_mel_band_roformer_ep_3005_sdr_11.4360.ckpt":"model_mel_band_roformer_ep_3005_sdr_11.4360.yaml"}
+                "Roformer Model: Mel-Roformer-Viperx-1143": {"model_mel_band_roformer_ep_3005_sdr_11.4360.ckpt":"model_mel_band_roformer_ep_3005_sdr_11.4360.yaml"},
+                "Roformer Model: Mel-Roformer-Karaoke-aufr33-ViperX": {"mel_band_roformer_karaoke_aufr33_viperx_sdr_10.1956.ckpt":"config_mel_band_roformer_karaoke.yaml"},
+                "Roformer Model: Mel-Roformer-DeNoise-aufr33": {"denoise_mel_band_roformer_aufr33_sdr_27.9959.ckpt":"model_mel_band_roformer_denoise.yaml"},
+                "Roformer Model: BS-Roformer-DeReverb": {"deverb_bs_roformer_8_256dim_8depth.ckpt":"deverb_bs_roformer_8_256dim_8depth.yaml"}
                 },
     
     "mdx23c_download_vip_list": {
