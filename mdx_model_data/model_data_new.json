@@ -380,5 +380,17 @@
     "d789065adfd747d6f585b27b495bcdae": {
         "config_yaml": "model_bs_roformer_ep_368_sdr_12.9628.yaml",
         "is_roformer": true
+    },
+        "7b68127602677f89eb18af38906025ee": {
+        "config_yaml": "model_mel_band_roformer_denoise.yaml",
+        "is_roformer": true
+    },
+    "8318a54fe1278ddcf78aad32145c0a6f": {
+        "config_yaml": "deverb_bs_roformer_8_256dim_8depth.yaml",
+        "is_roformer": true
+    },
+    "8d306349be961bd1de6b02ee598920b3": {
+        "config_yaml": "config_mel_band_roformer_karaoke.yaml",
+        "is_roformer": true
     }
 }
